@@ -1,0 +1,277 @@
+{
+  "main": [
+    {
+      "name": "Chest",
+      "workouts": [
+        {
+          "id": 1,
+          "name": "Flat Dumbbell Bench Press",
+          "description": "Flat bench barbell press for chest development."
+        },
+        {
+          "id": 2,
+          "name": "Incline Dumbbell Bench Press",
+          "description": "Incline bench barbell press for chest development."
+        },
+        {
+          "id": 3,
+          "name": "Decline Dumbbell Bench Press",
+          "description": "Decline bench barbell press for chest development."
+        },
+        {
+          "id": 4,
+          "name": "Machine Fly",
+          "description": "Machine fly for chest development."
+        },
+        {
+          "id": 5,
+          "name": "Cable Fly",
+          "description": "Cable fly for chest development."
+        },
+        {
+          "id": 6,
+          "name": "Push Up",
+          "description": "Push up for chest development."
+        }
+      ]
+    },
+    {
+      "name": "Back",
+      "workouts": [
+        {
+          "id": 6,
+          "name": "Pull Up",
+          "description": "Pull up for back development."
+        },
+        {
+          "id": 7,
+          "name": "Rear Lat Pulldown",
+          "description": "Rear Lat pulldown for back development."
+        },
+        {
+          "id": 8,
+          "name": "Front Lat Pulldown",
+          "description": "Front Lat pulldown for back development."
+        },
+        { "id": 9,
+          "name": "Bent Over Row",
+          "description": "Bent over row for back development."
+        },
+        {
+          "id": 10,
+          "name": "Seated Cable Row",
+          "description": "Seated cable row for back development."
+        }
+      ]
+    },
+    {
+      "name": "Shoulders",
+      "workouts": [
+        {
+          "id": 11,
+          "name": "Dumbbell Shoulder Press",
+          "description": "Dumbbell shoulder press for shoulder development."
+        },
+        {
+          "id": 12,
+          "name": "Lateral Raise",
+          "description": "Lateral raise for shoulder development."
+        },
+        {
+          "id": 13,
+          "name": "Front Raise",
+          "description": "Front raise for shoulder development."
+        },
+        {
+          "id": 14,
+          "name": "Machine Rear Delt Fly",
+          "description": "Machine Rear delt fly for shoulder development."
+        },
+        {
+          "id": 15,
+          "name": "Face Pull",
+          "description": "Face pull for shoulder development."
+        }
+      ]
+    },
+    {
+      "name": "Legs",
+      "workouts": [
+        {
+          "id": 16,
+          "name": "Squat",
+          "description": "Squat for leg development."
+        },
+        {
+          "id": 17,
+          "name": "Dumbbell RDL",
+          "description": "Dumbbell Romanian deadlift for back development."
+        },
+        {
+          "id": 18,
+          "name": "Leg Press",
+          "description": "Leg press for leg development."
+        },
+        {
+          "id": 19,
+          "name": "Leg Curl",
+          "description": "Leg curl for leg development."
+        },
+        {
+          "id": 20,
+          "name": "Leg Extension",
+          "description": "Leg extension for leg development."
+        }
+      ]
+    }
+  ],
+  "abs": [
+    {
+      "id": 21,
+      "name": "Crunch",
+      "description": "Crunch for ab development."
+    },
+    {
+      "id": 22,
+      "name": "Leg Raise",
+      "description": "Leg raise for ab development."
+    },
+    {
+      "id": 23,
+      "name": "Plank",
+      "description": "Plank for ab development."
+    },
+    {
+      "id": 24,
+      "name": "Russian Twist",
+      "description": "Russian twist for ab development."
+    },
+    {
+      "id": 25,
+      "name": "Cable Crunch",
+      "description": "Cable crunch for ab development."
+    }
+  ],
+  "bonus": [
+    {
+      "name": "Biceps",
+      "workouts": [
+        {
+          "id": 26,
+          "name": "Barbell Curl",
+          "description": "Barbell curl for bicep development."
+        },
+        {
+          "id": 27,
+          "name": "Dumbbell Curl",
+          "description": "Dumbbell curl for bicep development."
+        },
+        {
+          "id": 28,
+          "name": "Preacher Curl",
+          "description": "Preacher curl for bicep development."
+        },
+        {
+          "id": 29,
+          "name": "Cable Curl",
+          "description": "Cable curl for bicep development."
+        },
+        {
+          "id": 30,
+          "name": "Hammer Curl",
+          "description": "Hammer curl for bicep development."
+        }
+      ]
+    },
+    {
+      "name": "Triceps",
+      "workouts": [
+        {
+          "id": 31,
+          "name": "Tricep Pushdown",
+          "description": "Tricep pushdown for tricep development."
+        },
+        {
+          "id": 32,
+          "name": "Skullcrusher",
+          "description": "Skullcrusher for tricep development."
+        },
+        {
+          "id": 33,
+          "name": "Dips",
+          "description": "Dips for tricep development."
+        },
+        {
+          "id": 34,
+          "name": "Overhead Tricep Extension",
+          "description": "Overhead tricep extension for tricep development."
+        },
+        {
+          "id": 35,
+          "name": "Close Grip Bench Press",
+          "description": "Close grip bench press for tricep development."
+        }
+      ]
+    },
+    {
+      "name": "Traps",
+      "workouts": [
+        {
+          "id": 36,
+          "name": "Shrug",
+          "description": "Shrug for shoulder development."
+        },
+        {
+          "id": 37,
+          "name": "Dumbbell Shrug",
+          "description": "Dumbbell shrug for shoulder development."
+        },
+        {
+          "id": 38,
+          "name": "Barbell Shrug",
+          "description": "Barbell shrug for shoulder development."
+        },
+        {
+          "id": 39,
+          "name": "Machine Shrug",
+          "description": "Machine shrug for shoulder development."
+        },
+        {
+          "id": 40,
+          "name": "Cable Shrug",
+          "description": "Cable shrug for shoulder development."
+        }
+      ]
+    },
+    {
+      "name": "Forearms",
+      "workouts": [
+        {
+          "id": 41,
+          "name": "Wrist Curl",
+          "description": "Wrist curl for forearm development."
+        },
+        {
+          "id": 42,
+          "name": "Reverse Wrist Curl",
+          "description": "Reverse wrist curl for forearm development."
+        },
+        {
+          "id": 43,
+          "name": "Farmer's Walk",
+          "description": "Farmer's walk for forearm development."
+        },
+        {
+          "id": 44,
+          "name": "Plate Pinch",
+          "description": "Plate pinch for forearm development."
+        },
+        {
+          "id": 45,
+          "name": "Reverse Curl",
+          "description": "Reverse curl for forearm development."
+        }
+      ]
+    }
+  ]
+}
